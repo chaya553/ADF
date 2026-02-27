@@ -1,0 +1,9 @@
+{
+	"name": "adf-rainbow",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2c47b0f5-fbc0-452b-93d8-33a1997085c6",
+		"tenantId": "78204b35-f02d-4567-a12e-65a9bcee93c3"
+	}
+}
